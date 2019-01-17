@@ -23,7 +23,7 @@ echo Removendo Software
 echo 
 	sudo apt autoremove
 echo
-echo Software Removedo 
+echo Software Removido 
 
 echo Limpado o Cache
 echo 
